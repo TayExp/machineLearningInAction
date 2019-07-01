@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="161a57cf-f35b-4ba9-b8bb-c6323fc72b4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/machineLearningInAction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machineLearningInAction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02_kNN/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch02_kNN/kNN.py" afterDir="false" />
-    </list>
+    <list default="true" id="161a57cf-f35b-4ba9-b8bb-c6323fc72b4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +18,7 @@
     <session id="-1445486165">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -64,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch04_naiveBayes/bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="177">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
               <folding>
                 <marker date="1561715991701" expanded="true" signature="785:1126" ph="..." />
                 <marker date="1561715991701" expanded="true" signature="1137:1294" ph="..." />
@@ -123,16 +118,6 @@
             <path>
               <item name="machineLearningInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="machineLearningInAction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machineLearningInAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machineLearningInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="ch03_decisionTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machineLearningInAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machineLearningInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04_naiveBayes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,9 +314,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2581" y="469" width="865" height="492" extended-state="0" />
+    <frame x="2467" y="140" width="1291" height="936" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33167702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21689683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -346,13 +332,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.5502793" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.24563591" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.863354" visible="true" weight="0.45093167" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.9355372" visible="true" weight="0.2112104" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="244" height="476" id="Documentation" order="5" sideWeight="0.13664596" side_tool="true" visible="true" weight="0.45093167" />
+      <window_info anchor="right" x="0" y="0" width="244" height="476" id="Documentation" order="5" sideWeight="0.06446281" side_tool="true" visible="true" weight="0.2112104" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch04_naiveBayes/bayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="177">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding>
             <marker date="1561715991701" expanded="true" signature="785:1126" ph="..." />
             <marker date="1561715991701" expanded="true" signature="1137:1294" ph="..." />
